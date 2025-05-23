@@ -4,6 +4,7 @@
 - [Description](#Description)
 - [Libraries](#Libraries)
 - [Objectives](#Objectives)
+- [Images](#images)
 
 ## Describtion
 This is a college project for programming course!<br/>
@@ -25,3 +26,6 @@ To enhance the user experience, the vending machine also includes features such 
 
 ## Objectives
 The project aims to simulate a real-world vending machine scenario and serves as a practical exercise for learning C++ programming concepts. It provides an opportunity to practice object-oriented design, encapsulation, and inheritance. <br/>
+
+## Images
+![Virtual vending machine (imaginative image)](image.png)
