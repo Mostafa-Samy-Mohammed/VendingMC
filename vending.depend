@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1716059917 source:d:\programming projects\coding\c++\vending\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	"Product.h"
+	"VendingMachine.h"
+
+1716059805 d:\programming projects\coding\c++\vending\product.h
+	<iostream>
+	<string>
+
+1716060470 d:\programming projects\coding\c++\vending\vendingmachine.h
+	<iostream>
+	<string>
+	<vector>
+	"Product.h"
+
+1716059800 source:d:\programming projects\coding\c++\vending\product.cpp
+	<iostream>
+	<string>
+	"Product.h"
+
+1716061084 source:d:\programming projects\coding\c++\vending\vendingmachine.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"VendingMachine.h"
+
+1721563548 source:d:\programming projects\coding\c++\vending\codes\main.cpp
+	"LIB.h"
+	"Product.h"
+	"VendingMachine.h"
+
+1721523215 d:\programming projects\coding\c++\vending\codes\lib.h
+	<iostream>
+	<string>
+	<ctime>
+	<vector>
+
+1721522277 d:\programming projects\coding\c++\vending\codes\vendingmachine.h
+	"LIB.h"
+	"Product.h"
+
+1721522317 d:\programming projects\coding\c++\vending\codes\product.h
+	"LIB.h"
+
+1721522549 d:\programming projects\coding\c++\vending\codes\vendingmachine.cpp
+	"LIB.h"
+	"Product.h"
+	"VendingMachine.h"
+
+1721523477 d:\programming projects\coding\c++\vending\codes\product.cpp
+	"LIB.h"
+	"Product.h"
+
+1721563642 source:d:\programming projects\coding\c++\vending\codes\vendingmachine.cpp
+	"LIB.h"
+	"Product.h"
+	"VendingMachine.h"
+
+1721523477 source:d:\programming projects\coding\c++\vending\codes\product.cpp
+	"LIB.h"
+	"Product.h"
+
