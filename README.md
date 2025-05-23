@@ -1,4 +1,5 @@
 # Vending Machine Project
+![Virtual vending machine (imaginative image)](image.png) <br/>
 
 ## Table of contents
 - [Description](#Description)
@@ -6,7 +7,6 @@
 - [Objectives](#Objectives)
 
 ## Describtion
-![Virtual vending machine (imaginative image)](image.png) <br/>
 This is a college project for programming course!<br/>
 The project is vending machine with a variuos products to buy from, the vending machine has two modes: <br/><br/>
 
