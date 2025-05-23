@@ -6,7 +6,7 @@
 - [Objectives](#Objectives)
 
 ## Describtion
-![Virtual vending machine (imaginative image)](image.png)
+![Virtual vending machine (imaginative image)](image.png) <br/>
 This is a college project for programming course!<br/>
 The project is vending machine with a variuos products to buy from, the vending machine has two modes: <br/><br/>
 
