@@ -4,7 +4,6 @@
 - [Description](#Description)
 - [Libraries](#Libraries)
 - [Objectives](#Objectives)
-- [Images](#images)
 
 ## Describtion
 ![Virtual vending machine (imaginative image)](image.png)
